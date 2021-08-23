@@ -2,7 +2,7 @@
 My Home CS-250-X6339 Software Development Lifecycle 21EW6
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
-The "user stories" gives the Scrum-agile team the user's perspective for the project. Letting the team know, who are the users, what they should expect from the solution, and how it will enhance their work duties. The user value statement lets the Scrum-agile team understand who is the users, their vision of the solution, and the abilities they expect the solution to do for them.
+The "user stories" gives the Scrum-agile team the user's perspective for the project. Letting the team know, what they should expect from the solution, and how it will enhance their work duties. The user value statement lets the Scrum-agile team understand who are the users, their vision of the solution, and the abilities they expect the solution to do for them.
 
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
